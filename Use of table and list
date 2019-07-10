@@ -1,0 +1,74 @@
+<html>
+<head>
+<title>Anaiah's Web Page </title>
+<style>
+body {background-color: light pink;}
+h2 {color: blue;}
+table {
+  font-family: arial;
+  border-collapse: collapse;
+  width: 100%;
+  }
+  td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+<h2>Countries by population</h2>
+<table>
+<tr>
+<th> Name of country </th>
+<th> Population count </th>
+</tr>
+<tr>
+<td>China</td>
+<td>1,420,062,022</td>
+</tr>
+<tr>
+<td>India</td>
+<td>1,368,737,513</td>
+</tr>
+<tr>
+<td>United States</td>
+<td>329,093,110</td>
+</tr>
+<tr>
+<td>Indonesia</td>
+<td>269,536,482</td>
+</tr>
+<tr>
+<td>Brazil</td>
+<td>212,392,717</td>
+</tr>
+<br>
+<p> The top 10 wealthiest states in the US are
+<ol>
+<li>New Hampshire</li>
+<li>Minnesota</li>
+<li>Hawaii</li>
+<li>North Dakota</li>
+<li>Maryland</li>
+<li>Utah</li>
+<li>Virginia</li>
+<li>Massachusetts</li>
+<li>Wyoming</li>
+<li>Vermont</li>
+</ol>
+</p>
+<br>
+<p> The 5 richest countries in the world are
+<ul>
+<li>Luxembourg</li>
+<li>Norway</li>
+<li>Switzerland</li>
+<li>Ireland</li>
+<li>Iceland</li>
+</ul>
+</body>
+</html>
